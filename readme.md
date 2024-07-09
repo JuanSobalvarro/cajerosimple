@@ -50,7 +50,6 @@ void callAction(int selection, int cuentaSelect, char **mov, int *movnum, int *b
 Aquí se declaran las funciones utilizadas en el programa.
 ## Función Principal
 ```c
-Copy code
 int main()
 {
     int billQuantity[] = {5, 5, 5, 5};
